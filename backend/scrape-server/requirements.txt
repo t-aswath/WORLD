@@ -1,0 +1,6 @@
+flask
+beautifulsoup4
+pytest-playwright
+google-cloud-aiplatform
+python-dotenv
+
